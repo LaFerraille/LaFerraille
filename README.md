@@ -9,6 +9,7 @@ I'm **Raphaël Ferroni**, a Master of Engineering student with a strong emphasis
 &nbsp;&nbsp;
 [![img_contact](./img/instagram-light.svg)](https://www.instagram.com/ferrxni/#gh-light-mode-only)
 [![img_contact](./img/instagram-dark.svg)](https://www.instagram.com/ferrxni/#gh-dark-mode-only)
+[![img_contact](./img/email-light.svg)](mailto:raphael.romandferroni@student-cs.fr)
 
 ### Languages and Tools:
 
