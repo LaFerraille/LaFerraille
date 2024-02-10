@@ -9,7 +9,6 @@ I'm **Raphaël Ferroni**, a Master of Engineering student with a strong emphasis
 &nbsp;&nbsp;
 [![img_contact](./img/instagram-light.svg)](https://www.instagram.com/ferrxni/#gh-light-mode-only)
 [![img_contact](./img/instagram-dark.svg)](https://www.instagram.com/ferrxni/#gh-dark-mode-only)
-[![img_contact](./img/email-light.svg)](mailto:raphael.romandferroni@student-cs.fr)
 
 ### Languages and Tools:
 
@@ -28,20 +27,16 @@ I'm **Raphaël Ferroni**, a Master of Engineering student with a strong emphasis
 <br />
 <br />
 
+### ⭐ GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaFerraille&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Interests
 
-- **Sports**: Semi-professional rugby player and saxophone enthusiast for over 15 years.
+- **Sports and music**: Semi-professional rugby player and saxophone enthusiast for over 15 years.
 - **Volunteering**: Mentor for high school students, promoting equal opportunities.
 
-## My Projects
+### My Projects
 
-This repository serves as a showcase for my personal and academic projects. Here, you'll find a variety of works that reflect my passion for solving complex problems, my dedication to learning and improving, and my desire to make a positive impact through technology.
+Feel free to explore my projects on my GitHub, and let's connect if you're interested in discussing technology, data science, or even rugby and music!
 
-Feel free to explore, and let's connect if you're interested in discussing technology, data science, or even rugby and music!
-
-### Contact Me
-
-- Email: [raphael.romandferroni@student-cs.fr](mailto:raphael.romandferroni@student-cs.fr)
-- LinkedIn: [Add your LinkedIn profile link here]
-
-Thank you for visiting my repository. Let's make magic happen together!
