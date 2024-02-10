@@ -1,8 +1,8 @@
-## Hello world 🌎 
+### Hello world 🌎 
 
 I'm **Raphaël Ferroni**, a Master of Engineering student with a strong emphasis in Applied Mathematics and Data Science at CentraleSupélec and a Master in Management student at ESSEC Business School. My academic journey is rich with courses in Machine Learning, Deep Learning, Computer Vision, Financial Mathematics, Time Series Analysis, Graphical Models preparing me for a world driven by data and strategic analysis.
 
-## Connect with me:
+### Connect with me:
 
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/raphaël-ferroni-0560b11b7/#gh-light-mode-only)
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/raphaël-ferroni-0560b11b7/#gh-dark-mode-only)
@@ -10,10 +10,22 @@ I'm **Raphaël Ferroni**, a Master of Engineering student with a strong emphasis
 [![img_contact](./img/instagram-light.svg)](https://www.instagram.com/ferrxni/#gh-light-mode-only)
 [![img_contact](./img/instagram-dark.svg)](https://www.instagram.com/ferrxni/#gh-dark-mode-only)
 
-### Technical Skills
+### Languages and Tools:
 
-- **Languages**: Advanced in Python, R, C++, SQL; proficient with Pack Office and Looker Studio.
-- **Frameworks & Tools**: Experience with Machine Learning and Deep Learning techniques, web scraping (Selenium, bs4), data modeling (Pandas, SQL), and visual analytics (Looker Studio).
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="PyTorch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Tensorflow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain-wordmark.svg" style="padding-right:10px;"/>
+<img align="left" alt="Numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Selenium" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="padding-right:10px;"/>
+
+<br />
+<br />
 
 ### Interests
 
