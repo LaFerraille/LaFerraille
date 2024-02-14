@@ -32,7 +32,7 @@ I'm **Raphaël Ferroni**, a Master of Engineering student with a strong emphasis
 
 ### Interests
 
-- **Sports and music**: Semi-professional rugby player and saxophone enthusiast for over 15 years.
+- **Sports and music**: Semi-professional rugby player and saxophone player for over 15 years.
 - **Volunteering**: Mentor for high school students, promoting equal opportunities.
 
 ### My Projects
