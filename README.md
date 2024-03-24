@@ -1,6 +1,6 @@
 ### Hello world 🌎 
 
-I'm **Raphaël Ferroni**, a Master of Engineering student with a strong emphasis in Applied Mathematics and Data Science at CentraleSupélec and a Master in Management student at ESSEC Business School. My academic journey is rich with courses in Machine Learning, Deep Learning, Computer Vision, Financial Mathematics, Time Series Analysis, Graphical Models preparing me for a world driven by data and strategic analysis.
+I'm **Raphaël Ferroni**
 
 ### Connect with me:
 
