@@ -1,6 +1,4 @@
-### Hello world 🌎 
-
-I'm **Raphaël Ferroni**
+### Hi everyone
 
 ### Connect with me:
 
@@ -27,13 +25,8 @@ I'm **Raphaël Ferroni**
 <br />
 <br />
 
-<!--### ⭐ GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaFerraille&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)-->
-
-### Interests
-
-- **Sports and music**: Semi-professional rugby player and saxophone player for over 15 years.
-- **Volunteering**: Mentor for high school students, promoting equal opportunities.
+⭐ GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaFerraille&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Projects
 
